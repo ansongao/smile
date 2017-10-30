@@ -1,0 +1,66 @@
+﻿*{
+	padding:0;
+	margin:0;
+}
+
+h1 {
+	text-align:center;
+	font-family:'宋体';
+	font-size:25px;
+	font-weight:400;
+	text-indent:1.5em;
+	color:green;
+}
+
+.search{
+	text-align:center;
+	height:50px;
+}
+
+.search_input{
+	height:25px;
+	width:300px;
+}
+.search_button{
+	height:25px;
+	
+}
+
+.buy{
+	text-align:center;
+}
+.buy_1{
+	text-align:center;
+	position:relative;
+	top:50px;
+}
+
+.cat{
+	 position: relative;
+     left: -140px;
+     top: -30px;
+   
+}
+.shenjiu1{
+	position:relative;
+	left:230px;
+	top:-250px;
+}
+.music{
+	position:relative;
+	left:0px;
+	top:-50px;
+	color:#80ff00;
+}
+.login1{
+	position:absolute;
+	left:90%;
+	top:0px;
+	
+}
+
+.login2{
+	
+	
+}
+/*----*/
